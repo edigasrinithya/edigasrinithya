@@ -42,7 +42,7 @@ I'm passionate about transforming raw data into meaningful insights through data
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/ediga-srinithya-9a1616409)
+- 💼 LinkedIn: [Ediga Srinithya](https://www.linkedin.com/in/ediga-srinithya-9a1616409/)
 - 📧 Email: edigasrinithya@gmail.com
 - 💻 GitHub: [@edigasrinithya](https://github.com/edigasrinithya)
 
