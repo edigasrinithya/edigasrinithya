@@ -16,7 +16,7 @@ I'm passionate about transforming raw data into meaningful insights through data
 
 **Data Analysis:** Excel, Pandas, NumPy
 
-**Data Visualization:** Power BI, Tableau, Matplotlib
+**Data Visualization:** Power BI, Matplotlib
 
 **Database:** Oracle Database
 
